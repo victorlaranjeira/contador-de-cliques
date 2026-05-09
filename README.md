@@ -24,4 +24,4 @@ Certifique-se de que tem o [Node.js](https://nodejs.org/) instalado.
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/contador-de-cliques.git](https://github.com/seu-usuario/contador-de-cliques.git)
+   git clone [https://github.com/victorlaranjeira/contador-de-cliques.git]
